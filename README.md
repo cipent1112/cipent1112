@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Advent Christopher</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cipent1112&label=Profile%20views&color=0e75b6&style=flat" alt="cipent1112" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -21,4 +19,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=cipent1112&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cipent1112&theme=highcontrast&hide_border=false)
+
+---
+[![](https://visitcount.itsvg.in/api?id=cipent1112&icon=6&color=6)](https://visitcount.itsvg.in)
 
